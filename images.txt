@@ -1,7 +1,5 @@
-docker.getcollate.io/openmetadata/db:1.4.1
-docker.elastic.co/elasticsearch/elasticsearch:8.10.2
-docker.getcollate.io/openmetadata/server:1.4.1
-docker.getcollate.io/openmetadata/ingestion:1.4.1
+gradle:4.8-jdk8
+tomcat:8-jdk8
 
 alpine:3.19
 #支持私库
